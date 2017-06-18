@@ -1,0 +1,177 @@
+.navigationbar_section_container img {
+	width: 200px;
+	margin-top: 3%;
+}
+
+.home_cover_main {
+	background-image: url('../img/cover/1.png');
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+}
+
+.main_cover_text {
+	padding-top: 17%;
+}
+
+.main_cover_text h2 {
+    font-family: 'Montserrat-Bold';
+    color: white;
+    font-size: 48px;
+}
+
+.main_cover_text h2 span {
+	color: #FFD000;
+}
+.main_cover_text p {
+	color: white;
+	font-size: 17px;
+	margin-bottom: 4%;
+}
+
+.yellow_btn {
+	background: #FFD000;
+    height: 40px;
+    font-size: 14px; 
+    width: 170px;
+    border: none;
+    color: white;
+}
+.dark_btn {
+	background: #2D3345;
+    height: 40px;
+    font-size: 14px; 
+    width: 170px;
+    border: none;
+    color: white;
+}
+/*Small line of contact form*/
+.small_padding {
+	padding: 0px 2px;
+}
+.contact_section_home {
+	background-color: #F1F2F2;
+	padding: 1.5% 0px;
+}
+
+.contact_section_home h3 {
+	font-family: 'Montserrat-Light';
+	font-size: 18px;
+	margin-top: 7px;
+}
+
+.contact_section_home input {
+	width: 30%;
+	border-radius: 3px;
+	border: solid 1px #D1D3D4;
+	height: 30px;
+	padding: 0px 10px;
+}
+
+.contact_section_home button {
+	background: #2D3345;
+    height: 30px;
+    font-size: 14px; 
+    width: 30%;
+    border: none;
+    color: white;	
+}
+
+
+/*Secvices Section home page*/
+
+.sevices_section {
+	text-align: center;
+	padding: 6% 10px;
+}
+
+.sevices_section h2 {
+	font-family: 'Montserrat-Bold';
+	width: 100%;
+	font-size: 35px;
+	margin-bottom: 10px;
+}
+.sevices_section h2 span {
+	color: #FFD000;
+}
+.sevices_section h5 {
+	font-family: 'HelveticaNeueLTStd-Ex';
+	font-size: 14px;
+	width: 100%;
+}
+
+.sevices_section img {
+	width: 70%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.sevices_section p {
+	font-size: 14px;
+	font-family: 'HelveticaNeueLTStd-Ex';
+}
+
+.icons_section_pan_c {
+	margin-top: 60px;
+}
+
+.services_buttons_all {
+	text-align: center;
+	width: 100%;
+	margin-top: 3%;
+}
+
+.phone_section_hom {
+    background-color: #2D3345;
+}
+.phone_section_hom .color_phon {
+    background-color: #2D3345;
+    padding: 14% 8% 10px;
+}
+
+.phone_section_hom h2 {
+	color: white;
+	margin-bottom: 30px;
+}
+.phone_section_hom img {
+	width: 100%;
+}
+
+/*Shopping section*/
+
+.shopping_section {
+	padding: 6% 10px;
+}
+
+.shopping_section .col-md-6 {
+	padding: 13% 5% 30px;
+}
+.shopping_section h2 {
+	font-family: 'HelveticaNeueLTStd-Ex';
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+
+.footer_section {
+	background: #2D3345;
+    color: white;
+    padding: 4% 0px;
+}
+
+.footer_section h5 {
+	font-family: 'HelveticaNeueLTStd-Ex';
+	font-size: 12px;
+}
+
+.footer_section a p {
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    font-size: 12px; 
+}
+
+.footer_section a p:hover {
+	color: #FFD000;
+	font-weight: bold;
+}
