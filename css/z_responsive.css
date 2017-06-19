@@ -1,0 +1,57 @@
+
+
+/*	MOBILE 	*/
+/*Only in desktop*/
+@media only screen and (min-width: 991px) {
+    .desktop-d-n {
+   		display: none !important;
+  	}
+}
+
+/*Only on Mobile*/
+@media only screen and (max-width: 991px) {
+    .mobile-d-n {
+   		display: none !important;
+  	}
+
+	  .main_cover_text h2 {
+	    font-family: 'Montserrat-Bold';
+	    color: white;
+	    font-size: 40px;
+	}
+
+	.contact_section_home {
+	    background-color: #F1F2F2;
+	    padding: 3.5% 0px;
+	    text-align: center;
+	}
+	.phone_section_hom h1 {
+		font-size: 30px;
+	}
+	.icons_section_pan_c {
+	    margin-top: 8px;
+	}
+	.phone_section_hom .color_phon {
+	    background-color: #2D3345;
+	    padding: 50px 30px;
+	}
+	.shopping_section h2 {
+	    font-family: 'HelveticaNeueLTStd-Ex';
+	    font-size: 35px;
+	    margin-bottom: 20px;
+	    text-align: center;
+	}
+	.shopping_section img {
+		width: 100% !important;
+	}
+	.shopping_section .col-md-6 {
+		text-align: center;
+		padding: 50px 30px;
+	}
+	.footer_section {
+		text-align: center;
+	}
+	.footer_section img {
+		width: 30%;
+	}
+  }
